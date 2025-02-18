@@ -1,5 +1,11 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: blue;
+    background: green;
+}
+.list-group-item{
+    list-style: none;
+    font-size: 48px;
+    border:0;
+    padding-bottom: 30px;
 }
